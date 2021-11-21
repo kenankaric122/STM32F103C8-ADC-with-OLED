@@ -1,0 +1,96 @@
+Dependencies for Project 'adc', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\adc.cpp)(0x614A4016)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58258CCC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x613A0A72)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D43D42)
+I (F:\Keil\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58258CCC)
+I (F:\Keil\ARM\ARMCC\include\stdio.h)(0x602577D4)
+I (F:\Keil\ARM\ARMCC\include\stdlib.h)(0x602577D4)
+I (ssd1306.h)(0x6139259E)
+I (ssd1306_i2c.h)(0x61392590)
+I (fonts.h)(0x61434B6E)
+I (F:\Keil\ARM\ARMCC\include\string.h)(0x602577DE)
+I (F:\Keil\ARM\ARMCC\include\string)(0x602577DE)
+I (F:\Keil\ARM\ARMCC\include\iosfwd)(0x602577DC)
+I (F:\Keil\ARM\ARMCC\include\rw\_defs.h)(0x602577D8)
+I (F:\Keil\ARM\ARMCC\include\rw\_config.h)(0x602577DA)
+I (F:\Keil\ARM\ARMCC\include\rw\config.h)(0x602577DC)
+I (F:\Keil\ARM\ARMCC\include\cwchar)(0x602577D8)
+I (F:\Keil\ARM\ARMCC\include\wchar.h)(0x602577D6)
+I (F:\Keil\ARM\ARMCC\include\limits)(0x602577DC)
+I (F:\Keil\ARM\ARMCC\include\rw\_math.h)(0x602577DA)
+I (F:\Keil\ARM\ARMCC\include\cmath)(0x602577DC)
+I (F:\Keil\ARM\ARMCC\include\math.h)(0x602577D8)
+I (F:\Keil\ARM\ARMCC\include\cfloat)(0x602577DE)
+I (F:\Keil\ARM\ARMCC\include\float.h)(0x602577DE)
+I (F:\Keil\ARM\ARMCC\include\climits)(0x602577E0)
+I (F:\Keil\ARM\ARMCC\include\limits.h)(0x602577D6)
+I (F:\Keil\ARM\ARMCC\include\rw\_algobase.h)(0x602577DC)
+I (F:\Keil\ARM\ARMCC\include\utility)(0x602577D8)
+I (F:\Keil\ARM\ARMCC\include\rw\_iterator.h)(0x602577DA)
+I (F:\Keil\ARM\ARMCC\include\rw\_iterbase.h)(0x602577DA)
+I (F:\Keil\ARM\ARMCC\include\cstddef)(0x602577D8)
+I (F:\Keil\ARM\ARMCC\include\stddef.h)(0x602577DE)
+I (F:\Keil\ARM\ARMCC\include\rw\_strref.h)(0x602577DC)
+I (F:\Keil\ARM\ARMCC\include\memory)(0x602577D8)
+I (F:\Keil\ARM\ARMCC\include\new)(0x602577D4)
+I (F:\Keil\ARM\ARMCC\include\exception)(0x602577DE)
+I (F:\Keil\ARM\ARMCC\include\rw\_mutex.h)(0x602577DC)
+I (F:\Keil\ARM\ARMCC\include\cstring)(0x602577D4)
+I (F:\Keil\ARM\ARMCC\include\rw\_traits.h)(0x602577DA)
+I (F:\Keil\ARM\ARMCC\include\cstdio)(0x602577D6)
+I (F:\Keil\ARM\ARMCC\include\rw\_error.h)(0x602577DA)
+F (.\fonts.c)(0x613925A6)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\objects\fonts.o --omf_browse .\objects\fonts.crf --depend .\objects\fonts.d)
+I (fonts.h)(0x61434B6E)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58258CCC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x613A0A72)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D43D42)
+I (F:\Keil\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58258CCC)
+I (F:\Keil\ARM\ARMCC\include\string.h)(0x602577DE)
+F (.\fonts.h)(0x61434B6E)()
+F (.\ssd1306.c)(0x613925A0)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\objects\ssd1306.o --omf_browse .\objects\ssd1306.crf --depend .\objects\ssd1306.d)
+I (ssd1306.h)(0x6139259E)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58258CCC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x613A0A72)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D43D42)
+I (F:\Keil\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58258CCC)
+I (ssd1306_i2c.h)(0x61392590)
+I (fonts.h)(0x61434B6E)
+I (F:\Keil\ARM\ARMCC\include\string.h)(0x602577DE)
+I (F:\Keil\ARM\ARMCC\include\stdlib.h)(0x602577D4)
+F (.\ssd1306.h)(0x6139259E)()
+F (.\ssd1306_i2c.c)(0x61392598)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\objects\ssd1306_i2c.o --omf_browse .\objects\ssd1306_i2c.crf --depend .\objects\ssd1306_i2c.d)
+I (ssd1306_i2c.h)(0x61392590)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58258CCC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x613A0A72)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D43D42)
+I (F:\Keil\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58258CCC)
+F (.\ssd1306_i2c.h)(0x61392590)()
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x59283406)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x58258CCC)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x58258CCC)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58258CCC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x613A0A72)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D43D42)
+I (F:\Keil\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (C:\Users\HP I7\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58258CCC)
